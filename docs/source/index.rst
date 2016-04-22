@@ -3,8 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: logo.jpg
-    :align: right
 
 
 HelpDesk Team Development and Customization           				
@@ -17,6 +15,18 @@ HelpDesk Team Development and Customization
 Project Vision
 ---------------
 **Develop a ticketing system that aids with organizing information, empowering the team, and maintaining force with in project development.**
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Steps
+   :glob:
+
+   roadmap
+   RolesandResponsibilities
+
 
 
 Requirements
@@ -44,6 +54,17 @@ Definition of Done (DoD)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Indices and Tables
 ------------------
 
@@ -52,16 +73,7 @@ Indices and Tables
 * :ref:`search`
 
 
-Table of Contents
-------------------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Steps
-   :glob:
-
-   roadmap
-   RolesandResponsibilities
 
 
    
