@@ -20,10 +20,10 @@ Ticket Upkeep
 	| - Card Services(P)     | - CUBI	      | - Lending	  | - Accounting(P)	   |
 	| - Internet Services(P) | - Helpdesk	      | - ARCU		  | - Finance(P)	   |
 	| - Loss Prevention(P)   | - Member Outreach  | 		  | - ACH(P)		   |
-	| - BI(P)	         | - Marketing	      | 		  | - Card Services(S)     |
+	| - BI(P)	         | - Marketing	      |  		  | - Card Services(S)     |
 	| - PI(P)	         |		      |		          | - Internet Services(S) |
         | - Accounting(S)        |                    |                   | - Loss Prevention(S)   |
-	| - Finance(S)  	 |		      |		    	  | - BI(S)		   |
+	| - Finance(S)  	 |	 	      |	    	          | - BI(S)		   |
 	| - ACH(S)		 |		      |		    	  | - PI(S)		   |
 	+------------------------+--------------------+-------------------+------------------------+
 
