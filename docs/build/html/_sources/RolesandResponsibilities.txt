@@ -11,8 +11,9 @@ Ticket Upkeep
 ~~~~~~~~~~~~~~
 
 - This will be a team effort 
-- Each team member will be responsible for a group of departments to make sure that “tickets” are assigned within a timely manner. (Time TBD)
+- Each team member will be responsible for a group of departments to make sure that “tickets” are assigned within a timely manner.
 - As it currently stands each team member is responsible for:  
+
 
 	+------------------------+--------------------+-------------------+------------------------+
 	|      Michael           |     Justin 	      |      Joel         |       Nikki            |
@@ -26,6 +27,7 @@ Ticket Upkeep
 	| - Finance(S)  	 |	 	      |	    	          | - BI(S)		   |
 	| - ACH(S)		 |		      |		    	  | - PI(S)		   |
 	+------------------------+--------------------+-------------------+------------------------+
+
 
 System Admin Rights
 ~~~~~~~~~~~~~~~~~~~~
