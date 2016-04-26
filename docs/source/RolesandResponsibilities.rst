@@ -11,22 +11,9 @@ Ticket Upkeep
 ~~~~~~~~~~~~~~
 
 - This will be a team effort 
-- Each team member will be responsible for a group of departments to make sure that “tickets” are assigned within a timely manner.
+- Each team member will be responsible for a group of departments to make sure that “tickets” are assigned within a timely manner. (Time TBD)
 - As it currently stands each team member is responsible for:  
 
-
-	+------------------------+--------------------+-------------------+------------------------+
-	|      Michael           |     Justin 	      |      Joel         |       Nikki            |
-	+========================+====================+===================+========================+
-	| - Card Services(P)     | - CUBI	      | - Lending	  | - Accounting(P)	   |
-	| - Internet Services(P) | - Helpdesk	      | - ARCU		  | - Finance(P)	   |
-	| - Loss Prevention(P)   | - Member Outreach  | 		  | - ACH(P)		   |
-	| - BI(P)	         | - Marketing	      |  		  | - Card Services(S)     |
-	| - PI(P)	         |		      |		          | - Internet Services(S) |
-	| - Accounting(S)        |                    |                   | - Loss Prevention(S)   |
-	| - Finance(S)  	 |	 	      |	    	          | - BI(S)		   |
-	| - ACH(S)		 |		      |		    	  | - PI(S)		   |
-	+------------------------+--------------------+-------------------+------------------------+
 
 
 System Admin Rights
