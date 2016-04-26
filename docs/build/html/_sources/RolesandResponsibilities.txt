@@ -23,7 +23,7 @@ Ticket Upkeep
 	| - Loss Prevention(P)   | - Member Outreach  | 		  | - ACH(P)		   |
 	| - BI(P)	         | - Marketing	      |  		  | - Card Services(S)     |
 	| - PI(P)	         |		      |		          | - Internet Services(S) |
-        | - Accounting(S)        |                    |                   | - Loss Prevention(S)   |
+	| - Accounting(S)        |                    |                   | - Loss Prevention(S)   |
 	| - Finance(S)  	 |	 	      |	    	          | - BI(S)		   |
 	| - ACH(S)		 |		      |		    	  | - PI(S)		   |
 	+------------------------+--------------------+-------------------+------------------------+
